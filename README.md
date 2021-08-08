@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @diebratwurst
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+I actually am a beginner in programming and the use of GitHub.
+In regards to programming, I hope to improve my knowledge here.
+
+<!---
+diebratwurst/diebratwurst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
